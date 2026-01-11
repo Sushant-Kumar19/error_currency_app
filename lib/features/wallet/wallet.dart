@@ -1,0 +1,11 @@
+class Wallet {
+  static int coins = 0;
+
+  static void addCoins(int amount) {
+    coins += amount;
+  }
+
+  static void reset() {
+    coins = 0;
+  }
+}
