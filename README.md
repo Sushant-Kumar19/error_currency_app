@@ -55,5 +55,5 @@ final String apiSecret = 'YOUR_IMAGGA_API_SECRET';
 ```bash
 git clone <repository_url>
 cd error_currency_app
-flutter pub get
+flutter pub get // to get dart dependcy
 flutter run
