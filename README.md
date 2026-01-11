@@ -56,4 +56,9 @@ final String apiSecret = 'YOUR_IMAGGA_API_SECRET';
 git clone <repository_url>
 cd error_currency_app
 flutter pub get // to get dart dependcy
+// after this you must connect your phone with laptop with usb
+//you must turn on the developer option of the mobile 
+//turn on the usb debuggging in the phone 
+//after attached press allow to debugging 
+///wait for2-3 minuetes
 flutter run
